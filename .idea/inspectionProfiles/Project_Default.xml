@@ -1,0 +1,56 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="VulnerableLibrariesLocal" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="isIgnoringEnabled" value="true" />
+      <option name="ignoredModules">
+        <list>
+          <option value="TemplateMavenProject" />
+          <option value="TemplateMavenProject" />
+          <option value="TemplateMavenProject" />
+          <option value="TemplateMavenProject" />
+          <option value="TemplateMavenProject" />
+          <option value="TemplateMavenProject" />
+          <option value="TemplateMavenProject" />
+          <option value="TemplateMavenProject" />
+          <option value="TemplateMavenProject" />
+          <option value="TemplateMavenProject" />
+          <option value="TemplateMavenProject" />
+          <option value="TemplateMavenProject" />
+        </list>
+      </option>
+      <option name="ignoredPackages">
+        <list>
+          <option value="com.lowagie:itext:2.1.7" />
+          <option value="commons-beanutils:commons-beanutils:1.9.2" />
+          <option value="commons-collections:commons-collections:3.2.1" />
+          <option value="io.netty:netty-codec:4.1.45.Final" />
+          <option value="io.netty:netty-common:4.1.45.Final" />
+          <option value="io.netty:netty-handler:4.1.45.Final" />
+          <option value="log4j:log4j:1.2.17" />
+          <option value="org.apache.ant:ant:1.9.7" />
+          <option value="org.apache.pdfbox:pdfbox:2.0.21" />
+          <option value="org.apache.xmlgraphics:xmlgraphics-commons:1.4" />
+          <option value="org.bouncycastle:bcprov-jdk15on:1.62" />
+          <option value="org.apache.pdfbox:pdfbox:2.0.17" />
+        </list>
+      </option>
+      <option name="ignoredReasons">
+        <list>
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
